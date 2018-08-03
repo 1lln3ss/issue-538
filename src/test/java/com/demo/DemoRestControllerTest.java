@@ -52,9 +52,6 @@ public class DemoRestControllerTest {
             fieldWithPath("prop3").description("Is property 3"),
             fieldWithPath("prop4").description("Is property 4"),
             fieldWithPath("prop5").description("Is property 5")};
-
-    ;
-
   }
 
   @Test
